@@ -23,7 +23,7 @@ train_datagen = ImageDataGenerator(
 )
 
 train_generator = train_datagen.flow_from_directory(
-    r'D:\script',
+    r'D:\CNN Model\Odia Images',
     target_size=(IMAGE_WIDTH, IMAGE_HEIGHT),
     batch_size=BATCH_SIZE,
     class_mode='categorical',  # Updated class_mode
