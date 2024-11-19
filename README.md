@@ -31,4 +31,16 @@ The dataset includes images containing text from **12 Indian languages**, collec
 
 ---
 
-### **Model Architecture**
+### **Model Architecture:**
+![Proposed Model Architecture](./Images/Proposed%20Model%20Architecture.png "Proposed Model Architecture")
+
+---
+
+### **License:**
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+### **Contact**
+For queries or collaboration, feel free to reach out:
+Email: [mohantyhitesh4495@gmail.com](mailto:mohantyhitesh4495@gmail.com)
