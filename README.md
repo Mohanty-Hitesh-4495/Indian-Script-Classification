@@ -21,10 +21,10 @@ The dataset includes images containing text from **12 Indian languages**, collec
 ### **Setup and Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Mohanty-Hitesh-4495/Indian-Script-Classification.git
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd Indian-Script-Classification
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
