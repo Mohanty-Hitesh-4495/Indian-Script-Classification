@@ -1,4 +1,15 @@
-# **Enhanced Textual Image Classification Using Ensemble Learning**
+<div align="center">
+   <h1>Enhanced Textual Image Classification Using Ensemble Learning</h1>
+
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+   <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
+   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
 
 ### **Project Overview**
 This project explores the application of ensemble learning for textual image classification across multiple languages. By leveraging MobileNetV2 and ResNet50, it aims to enhance generalization, accuracy, and robustness. The ensemble model achieved a validation accuracy of **77%**, outperforming individual models and demonstrating its potential in solving complex classification tasks.
@@ -31,8 +42,10 @@ The dataset includes images containing text from **12 Indian languages**, collec
 
 ---
 
-### **Model Architecture:**
-![Proposed Model Architecture](./Images/Proposed%20Model%20Architecture.png "Proposed Model Architecture")
+<div align="center">
+<h3>Model Architecture:</h3>
+<img src="./Images/Proposed%20Model%20Architecture.png" width="500">
+</div>
 
 ---
 
@@ -44,3 +57,4 @@ This project is licensed under the [MIT License](./LICENSE).
 ### **Contact**
 For queries or collaboration, feel free to reach out:
 Email: [mohantyhitesh4495@gmail.com](mailto:mohantyhitesh4495@gmail.com)
+
